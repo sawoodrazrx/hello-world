@@ -1,2 +1,3 @@
 # hello-world
-This repository is my first one on github.
+chunni dattebayo
+This sentence indicates that I have made a change to the readme repository.
